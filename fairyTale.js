@@ -1,26 +1,27 @@
 // 1. Create a variable named `place` and set the value to a string that says whatever place you want.
-
+let place = "Nextech";
 // 2. Create a variable named `creatureName` and set the value to a string that says whatever name you want to give the creature.
-
+let creatureName = "Dragon";
 // 3. Create a variable named `color` and set the value to a string that says whatever color you want.
-
+let color = "red";
 // 4. Create a variable named `color2` and set the value to a string that says a different color you want.
-
+let color2 = "blue";
 // 5. Create a variable named `emotion` and set the value to a string that says whatever emotion you want.
-
+let emotion = "happy";
 // 6. Create a variable named `character` and set the value to a string that says whatever name for a character you want.
-
+let character = "Knight";
 // 7. Create a variable named `number` and set the value to a number greater than 1.
-
+let number = 3;
 // 8. Create a variable named `item` and set the value to a string that says whatever item/thing you want.
-
+let item = "sword";
 // 9. Create a variable named `item2` and set the value to a string that says a different item/thing you want.
-
+let item2 = "shield'";
 // 10. Create a variable named `verb` and set the value to a string that says whatever verb you want.
-
+let verb = "fight";
 // 11. Create a variable named `adverb` and set the value to a string that says whatever adverb you want.
-
+let adverb = "bravely";
 // 12. Create a variable named `number2` and set the value to a number greater than 1.
+let number2 = 5;
 
 
 
